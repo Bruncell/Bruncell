@@ -10,20 +10,19 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruncell&layout=compact&theme=tokyonight)
 
 
-<h3 align="left">Languages and Tools:</h3>
-## Инструменты и Языки программирования
 
-Я активно использую следующие языки и инструменты:
+## Tools and Programming Languages
 
-| Язык / Инструмент | Иконка | Описание |
-|-------------------|--------|----------|
-| C                 | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | Язык программирования C |
-| C++               | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | Язык программирования C++ |
-| ASM (NASM)        | ![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=assemblyscript&logoColor=white) | Ассемблер (NASM) |
-| Unity             | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) | Игровой движок Unity |
-| C#                | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | Язык программирования C# |
+**Tools:**  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![GIMP](https://img.shields.io/badge/-GIMP-5C5549?logo=gimp&logoColor=white)  
 
----
+**Programming Languages:**  
+![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=assemblyscript&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 Если хочешь — могу помочь сделать ещё круче с другими иконками или оформлением.
 
