@@ -11,7 +11,21 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+## Инструменты и Языки программирования
+
+Я активно использую следующие языки и инструменты:
+
+| Язык / Инструмент | Иконка | Описание |
+|-------------------|--------|----------|
+| C                 | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | Язык программирования C |
+| C++               | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | Язык программирования C++ |
+| ASM (NASM)        | ![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=assemblyscript&logoColor=white) | Ассемблер (NASM) |
+| Unity             | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) | Игровой движок Unity |
+| C#                | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | Язык программирования C# |
+
+---
+
+Если хочешь — могу помочь сделать ещё круче с другими иконками или оформлением.
 
 ## 📈 Activity Graph
 
