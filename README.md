@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruncell</h1>
 
-- I’m currently learning **C**
-
 <p align="left">
 </p>
 
