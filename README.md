@@ -20,9 +20,9 @@
 
 **Programming Languages:**  
 ![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=assemblyscript&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+[C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
+[C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+[C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 Если хочешь — могу помочь сделать ещё круче с другими иконками или оформлением.
 
